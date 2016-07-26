@@ -1,0 +1,24 @@
+{
+  "name": "RestaApp",
+  "description": "",
+  "authors": [
+    "rushan"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.0.9",
+    "angular": "^1.5.7",
+    "jquery": "^3.1.0",
+    "angular-ui-router": "^0.3.1",
+    "material-design-icons": "^2.2.3"
+  }
+}
